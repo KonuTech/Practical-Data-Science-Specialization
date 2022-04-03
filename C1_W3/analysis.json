@@ -1,0 +1,28 @@
+{
+    "explanations": {
+        "kernel_shap": {
+            "-1": {
+                "expected_value": -0.6583061534104542,
+                "global_shap_values": {
+                    "product_category": 3.2287576243130506e-08,
+                    "review_body": 0.18257851452612678
+                }
+            },
+            "0": {
+                "expected_value": -0.6197782831613392,
+                "global_shap_values": {
+                    "product_category": 5.178660506064553e-17,
+                    "review_body": 0.1623451933410623
+                }
+            },
+            "1": {
+                "expected_value": -0.8045740453602482,
+                "global_shap_values": {
+                    "product_category": 6.796813075839594e-08,
+                    "review_body": 0.340432552323718
+                }
+            }
+        }
+    },
+    "version": "1.0"
+}
